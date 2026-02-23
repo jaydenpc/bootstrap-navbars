@@ -6,7 +6,7 @@ i {
 }
 
 
-#morningbrew .nav-items {
+#morningbrew .nav-item {
     padding-left: 1rem; 
     padding-right: 1rem; 
     padding-top:2px; 
@@ -23,4 +23,7 @@ i {
     color: black;
 }
 
+#alohabeer i {
+    color: black;
+}
 
